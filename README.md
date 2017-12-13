@@ -11,3 +11,7 @@ __Welcome__
 * list  
   * lists
   * lists
+
+Updated text in Atom  downloaded from Github  
+:octocat:  
+Still need to commit to GitHub  
